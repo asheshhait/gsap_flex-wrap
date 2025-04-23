@@ -29,8 +29,4 @@ This is **Day 10 ** of my self-imposed **30 Days of GSAP Challenge**.
 Stay tuned for more animations every day!
 
 ## 📷 Preview
-> Hover over any image to see it grow smoothly.
-
-![Demo GIF](preview.gif)
-
 ![Screen Recording 2025-04-23 160229](https://github.com/user-attachments/assets/51bc5990-a491-4332-a41c-14558d8035f6)
