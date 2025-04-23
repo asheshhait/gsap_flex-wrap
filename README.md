@@ -33,4 +33,4 @@ Stay tuned for more animations every day!
 
 ![Demo GIF](preview.gif)
 
-![Uploading Screen Recording 2025-04-23 160229.gif…]()
+![Screen Recording 2025-04-23 160229](https://github.com/user-attachments/assets/51bc5990-a491-4332-a41c-14558d8035f6)
